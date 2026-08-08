@@ -1,0 +1,6 @@
+{
+  "name": "Makeup Studio",
+  "description": "A fun, colorful Makeup Artist Game where you style avatar looks, complete beauty challenges, and score your creations!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
